@@ -1,0 +1,26 @@
+{
+  "name": "istanbul-code-coverage-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine",
+    "test-cover": "istanbul cover --include-all-sources spec/specs.js && istanbul check-coverage"
+  },
+  "keywords": [
+    "istanbul"
+  ],
+  "author": "Tal Kaminsky",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-node": "^1.14.5",
+    "istanbul": "^0.4.5",
+    "jasmine-console-reporter": "^2.0.1",
+    "supertest": "^3.0.0",
+    "jasmine-supertest": "^1.0.0"
+  },
+  "dependencies": {
+  }
+}
