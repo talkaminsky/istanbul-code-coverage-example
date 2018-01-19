@@ -1,5 +1,5 @@
 # istanbul-code-coverage-example
-Example project for istanbul jasmin and supertest integration
+Example project for istanbul jasmine and supertest integration
 
 Read the full blog-post here
 
