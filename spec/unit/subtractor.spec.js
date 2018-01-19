@@ -1,4 +1,4 @@
-var subtractor = require('../services/subtractor');
+var subtractor = require('../../services/subtractor');
 
 describe("subtractor tests ", function() {
     var _numberA;

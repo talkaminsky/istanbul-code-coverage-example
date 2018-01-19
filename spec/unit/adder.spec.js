@@ -1,4 +1,4 @@
-var adder = require('../services/adder');
+var adder = require('../../services/adder');
 
 describe("adder tests ", function() {
     var _numberA;

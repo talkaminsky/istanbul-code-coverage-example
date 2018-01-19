@@ -1,4 +1,4 @@
-var multiplier = require('../services/multiplier');
+var multiplier = require('../../services/multiplier');
 
 describe("multiplier tests ", function() {
     var _numberA;

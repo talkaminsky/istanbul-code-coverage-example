@@ -1,4 +1,4 @@
-var divider = require('../services/divider');
+var divider = require('../../services/divider');
 
 describe("divider tests ", function() {
     var _numberA;
