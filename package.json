@@ -14,13 +14,14 @@
   "author": "Tal Kaminsky",
   "license": "MIT",
   "devDependencies": {
-    "jasmine": "^2.8.0",
-    "jasmine-node": "^1.14.5",
     "istanbul": "^0.4.5",
+    "jasmine": "^2.8.0",
     "jasmine-console-reporter": "^2.0.1",
-    "supertest": "^3.0.0",
-    "jasmine-supertest": "^1.0.0"
+    "jasmine-node": "^1.14.5",
+    "jasmine-supertest": "^1.0.0",
+    "supertest": "^3.0.0"
   },
   "dependencies": {
+    "express": "^4.18.2"
   }
 }
