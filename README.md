@@ -1,7 +1,7 @@
 # istanbul-code-coverage-example
 Example project for istanbul jasmine and supertest integration
 
-Read the full blog-post here
+Read the full blog-post [here](https://medium.com/walkme-engineering/measure-your-nodejs-code-coverage-using-istanbul-82b129c81ae9).
 
 ## Installation
 ```text
